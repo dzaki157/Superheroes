@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Superheroes</string>
+    <string name="hero1">Batman</string>
+    <string name="description1">The Dark Knight</string>
+    <string name="hero2">Gundala</string>
+    <string name="description2">Sang Putra Petir</string>
+    <string name="hero3">Thor</string>
+    <string name="description3">God of Thunder</string>
+    <string name="hero4">Spiderman</string>
+    <string name="description4">No Way Home</string>
+</resources>
